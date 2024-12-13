@@ -6,7 +6,7 @@
   <link href="https://jasononbourne.github.io/atom.xml" rel="self"/>
   
   <link href="https://jasononbourne.github.io/"/>
-  <updated>2024-12-12T14:06:58.662Z</updated>
+  <updated>2024-12-13T06:52:06.118Z</updated>
   <id>https://jasononbourne.github.io/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>OpenAi生成赛博朋克图画</title>
+    <link href="https://jasononbourne.github.io/2024/12/13/OpenAi%E7%94%9F%E6%88%90%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E5%9B%BE%E7%94%BB/"/>
+    <id>https://jasononbourne.github.io/2024/12/13/OpenAi%E7%94%9F%E6%88%90%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E5%9B%BE%E7%94%BB/</id>
+    <published>2024-12-13T13:48:49.000Z</published>
+    <updated>2024-12-13T06:52:06.118Z</updated>
+    
+    <content type="html"><![CDATA[<p>####图一：</p><p><img src="/%5Cimages%5Copenai%5Cpic1" alt="图片"></p><p>####图二：</p><p><img src="/%5Cimages%5Copenai%5Cpic2" alt="图"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;####图一：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/%5Cimages%5Copenai%5Cpic1&quot; alt=&quot;图片&quot;&gt;&lt;/p&gt;
+&lt;p&gt;####图二：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/%5Cimages%5Copenai%5Cpic2&quot; alt=&quot;图&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="人工智能" scheme="https://jasononbourne.github.io/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    
+    
+    <category term="Ai" scheme="https://jasononbourne.github.io/tags/Ai/"/>
+    
+    <category term="chatgpt" scheme="https://jasononbourne.github.io/tags/chatgpt/"/>
+    
+  </entry>
   
   <entry>
     <title>Follow 认证</title>
